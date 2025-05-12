@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
